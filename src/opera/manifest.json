@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "default_locale": "ja",
-  "name": "__MSG_extName__",
-  "description": "__MSG_extDescription__",
+  "name": "Hatena Bookmark",
+  "description": "Hatena Bookmark extension",
   "version": "1.4.9",
   "permissions": [
     "http://*/*",
@@ -11,10 +11,10 @@
     "unlimited_storage"
   ],
   "icons": {
-      "16": "images/favicon16.png",
-      "32": "images/favicon32.png",
-      "48": "images/favicon48.png",
-      "128": "images/favicon128.png"
+    "16": "images/favicon16.png",
+    "32": "images/favicon32.png",
+    "48": "images/favicon48.png",
+    "128": "images/favicon128.png"
   },
   "browser_action": {
     "default_icon": "images/chrome-b-plus.png",
